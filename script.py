@@ -1,4 +1,8 @@
+# All rights reserved
 # Camera trap script
+
+# And now the experimental branch!
+# So much fun, indeed!
 
 Read data file
 
